@@ -1,0 +1,22 @@
+{
+  "name": "image-compression",
+  "version": "1.0.0",
+  "description": "image compression tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciarmoli-marco/image-compression.git"
+  },
+  "author": "ciarmoli marco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciarmoli-marco/image-compression/issues"
+  },
+  "homepage": "https://github.com/ciarmoli-marco/image-compression#readme",
+  "dependencies": {
+    "compress-images": "^1.3.8"
+  }
+}
